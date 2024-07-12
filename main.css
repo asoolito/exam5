@@ -1,0 +1,61 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+.Title{
+    text-align: center;
+    margin-top: 30px;
+}
+.form{
+    text-align: center;
+}
+.Input{
+    margin-bottom: 30px;
+}
+.Title2{
+    margin-bottom: 30px ;
+}
+.wrapper{
+    display: flex;
+    gap: 20px;
+    flex-direction: column;
+}
+
+.Input{
+    height: 40px;
+    width: 300px;
+    border: 1px solid bisque;
+    border-radius: 15px;
+}
+.Input2{
+    height: 40px;
+    width: 300px;
+    border: 1px solid bisque;
+    border-radius: 15px;
+}
+.Btn{
+    height: 40px;
+    width: 300px;
+    text-align: center;
+    /* margin-left: 90px; */
+    background-color: rgb(159, 156, 156);;
+    border:1px solid transparent;
+    border-radius: 15px;
+}
+.big{
+    display: flex;
+    justify-content: center;
+}
+.questions{
+    height: 40px;
+    width: 300px;
+    text-align: center;
+    background-color: rgb(159, 156, 156);
+    border:1px solid transparent;
+    border-radius: 15px;
+}
+.Savol{
+    text-align: center;
+}
